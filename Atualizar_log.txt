@@ -1435,3 +1435,70 @@ warning: safe.directory ' ' not absolute
 warning: safe.directory has multiple values
 error: cannot overwrite multiple values with a single value
        Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[SUCESSO] git add . executado em node js
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+[node js ] Commit realizado
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: redirecting to https://github.com/koupyi/Node/
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+[SUCESSO] git pull executado em node js
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: redirecting to https://github.com/koupyi/Node/
+To http://github.com/koupyi/Node
+   3e6348e..a59d6ff  main -> main
+[SUCESSO] git push executado em node js
+[SUCESSO] Atualização concluída em node js
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
