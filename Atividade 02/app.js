@@ -12,25 +12,25 @@ app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "ejs");
 
 // Rota principal
-const indexRouter = require("./routes/index");
+const indexRouter = require("routes/index");
 app.use("/", indexRouter);
 
 
 // Rotas de categoria
-const categoriaRouter = require("./routes/categorias");
+const categoriaRouter = require("/routes/categorias");
 app.use("/categorias", categoriaRouter);
 
 // rotas de alunos
-const alunosRouter = require("./routes/alunos");
+const alunosRouter = require("/routes/alunos");
 app.use("/alunos", alunosRouter);
 
 
 // rotas do curso
-const cursoRouter = require("./routes/curso");
+const cursoRouter = require("/routes/curso");
 app.use("/curso", cursoRouter);
 
 // Rotas de equipe
-const equipeRouter = require("./routes/equipe");
+const equipeRouter = require("/routes/equipe");
 app.use("/equipe", equipeRouter);
 
 // rodar o servidor
