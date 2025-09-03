@@ -26,6 +26,12 @@ app.use("/EPA", epaRouter);
 const equipeRouter = require("./routes/equipe");
 app.use("/equipe", equipeRouter);
 
+const bdRouter = require("./routes/BD");
+app.use("/BD", bdRouter);
+
+const dsRouter = require("./routes/DS");
+app.use("/DS", dsRouter);
+
 // Rodar o servidor
 app.listen(3000, () => {
   console.log("Servidor em execução - http://localhost:3000"
