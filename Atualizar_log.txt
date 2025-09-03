@@ -2618,3 +2618,52 @@ warning: safe.directory ' ' not absolute
 warning: safe.directory has multiple values
 error: cannot overwrite multiple values with a single value
        Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[SUCESSO] git add . executado com sucesso em "node JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: unable to access 'http://github.com/koupyi/Node/': Failed to connect to github.com port 80 after 21118 ms: Could not connect to server
+[ERRO] git pull falhou em "node JS" 
+[DEBUG] Executando git add . em "node JS" 
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/.bin/ejs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/.bin/ejs.ps1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/.bin/jake', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/.bin/jake.ps1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/accepts/HISTORY.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/accepts/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/accepts/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/accepts/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/accepts/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/async/CHANGELOG.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/async/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividade/Atividade projeto final sem BD/node_modules/async/README.md', LF will be replaced by CRLF the next time Git touches it
+^C[DEBUG] Executando git add . em "node JS" 
