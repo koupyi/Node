@@ -3483,3 +3483,4 @@ warning: in the working copy of 'Atividade/Atividade projeto final sem BD/packag
 [DEBUG] Executando git pull em "node JS" 
 fatal: unable to access 'http://github.com/koupyi/Node/': Failed to connect to github.com port 80 after 21074 ms: Could not connect to server
 [ERRO] git pull falhou em "node JS" 
+[DEBUG] Executando git add . em "node JS" 
