@@ -1,1 +1,8 @@
 [DEBUG] Executando git add . em "node JS" 
+[DEBUG] Executando git commit em "node JS" 
+[DEBUG] Executando git pull em "node JS" 
+[DEBUG] Executando git push em "node JS" 
+To https://github.com/koupyi/Node.git
+   f1c0585..10bb37e  main -> main
+[SUCESSO] Atualização concluída em "node JS" 
+[DEBUG] Executando git add . em "node JS" 
