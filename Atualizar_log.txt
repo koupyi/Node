@@ -53,3 +53,11 @@ To https://github.com/koupyi/Node.git
    67bfcb5..57f7a76  main -> main
 [SUCESSO] Atualização concluída em "node JS" 
 [DEBUG] Executando git add . em "node JS" 
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[DEBUG] Executando git commit em "node JS" 
+[DEBUG] Executando git pull em "node JS" 
+[DEBUG] Executando git push em "node JS" 
+To https://github.com/koupyi/Node.git
+   f2c6a09..769f077  main -> main
+[SUCESSO] Atualização concluída em "node JS" 
+[DEBUG] Executando git add . em "node JS" 
